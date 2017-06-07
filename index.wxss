@@ -1,0 +1,40 @@
+/**index.wxss**/
+.flex-wrp{
+  height: 100px;
+  background-color: white;
+  display: flex;
+}
+.flex-item{
+ width: 100px;
+ height: 100px;
+ box-sizing: border-box;
+}
+.bc_green{
+ background-color: green;
+}
+.bc_red{
+ background-color: red;
+}
+.bc_blue{
+ background-color: blue;
+}
+.img_class{
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width:60px;
+  height:60px;
+}
+
+.section_gap{
+  height: 20px;
+}
+.txt_class{
+  display:inline-block;
+  width:100px;
+  text-align:center;
+  color:red;
+}
+.scroll{
+  height:100px;
+}

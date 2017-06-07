@@ -1,0 +1,20 @@
+<scroll-view scroll-x="true" style=" white-space: nowrap; display: flex; background:url(scroll_bg.jpg)">
+<!--  display: inline-block-->
+  
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <image class="img_class" mode="scaleToFill" src="image.jpg"></image>
+  <view>
+  	<text class="txt_class">GG</text>
+    <text class="txt_class">GG</text>
+    <text class="txt_class">GG</text>
+    <text class="txt_class">GG</text>
+    <text class="txt_class">GG</text>
+    <text class="txt_class">GG</text>
+    <text class="txt_class">GG</text>
+	</view>
+</scroll-view>
